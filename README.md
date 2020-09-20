@@ -1,2 +1,6 @@
-# twitter_sentiments
-Supervised learning :  determine tweets sentiments with scikit-learn
+# Twitter_sentiments
+  Training supervised learning with scikit-learn.
+  
+## Original Database 
+  http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
+  
